@@ -1,0 +1,3 @@
+[submodule "绿盟应急响应工具D-Eyes_1.3.0/d-eyes"]
+	path = 绿盟应急响应工具D-Eyes_1.3.0/d-eyes
+	url = https://github.com/m-sec-org/d-eyes.git

@@ -176,6 +176,8 @@ Linux应急处置/信息搜集/漏洞检测工具，
 ## 绿盟应急响应工具(Linux&Windows)
 ### V1.0.1
 - [说明文件](./绿盟应急响应工具D-Eyes_1.1.0/README.MD)
+- [Github仓库](https://github.com/m-sec-org/d-eyes)
+- 注意：最新版本为1.3.0；使用前请及时更新
 ## LinuxCheck - 应急响应实用脚本修改版
 ### V3.2
 - checkList
